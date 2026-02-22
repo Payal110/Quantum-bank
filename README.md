@@ -20,7 +20,7 @@
 
 > 🎬 **[Click here to watch the full demo video](#)** ← *(replace with your YouTube/Drive link)*
 
-[![Demo Thumbnail](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Demo Thumbnail](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1G0cD-vi4x-KQ2WuML8em3QoHRxzcDcsd/view?usp=sharing)
 
 ---
 
